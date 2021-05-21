@@ -12,4 +12,5 @@ public class User {
     private int age;
     //用户名
     private int agee;
+    private String birthday;
 }
